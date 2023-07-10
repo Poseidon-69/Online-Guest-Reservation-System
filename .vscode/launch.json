@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JavaFX Application",
+            "request": "launch",
+            "vmArgs": "--module-path lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "com.ReservationSystemUI"
+        }
+    ]
+}
